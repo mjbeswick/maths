@@ -1,4 +1,6 @@
-**Create a Story-Based Fractions, decimals, and percentages Worksheet for GCSE Adults**
+**Create a Story-Based Worksheet for GCSE Adults**
+
+**Topics:** Fractions, Decimals, and Percentages
 
 **Theme:** British Agricultural/Farming
 
@@ -8,7 +10,7 @@
 
 2. **Organised Structure:**
 
-   - **Direct Start:** Begin the worksheet immediately with content—no introductions or preambles.
+   - **Title and Introduction:** Begin the worksheet with a Title, followed by an introduction to the topics covered. No preambles.
    - **Themed Sections:** Divide the worksheet into distinct sections, each dedicated to a different fractions topic.
    - **Section Introductions:** Provide a concise introductory paragraph for each section to explain the concept being practised.
 
@@ -17,7 +19,7 @@
    - **Volume and Progression:** Include a total of 10 questions for each topic, designed to increase in difficulty as learners progress.
    - **Clear Labelling:** Assign each question a label in the format Q1, Q2, Q3, ..., Q20.
    - **Visual Integration:** Add relevant illustrations or images reflecting the farming theme to enhance comprehension and engagement.
-   - **Mathematical Clarity:** Use MathJax to display all mathematical expressions and equations clearly.
+   - **Mathematical Clarity:** Use Tex / LaTex syntax to display all mathematical expressions and equations clearly.
 
 4. **Answers and Solutions Section:**
 
@@ -30,26 +32,17 @@
 
 **Example Layout:**
 
-- **Section 1: Basic Fractions in Farming**
+- **Section <number>: <topic>**
 
-  - _Introductory Paragraph Explaining Basic Fraction Concepts_
-  - Q1: [Humorous farming-related fraction problem]
+  - _Introductory Paragraph Explaining <topic>_
+  - Q1: [Humorous related problem]
   - Q2: [Next question]  
-    _(Continue to Q4)_
+    _(Continue...)_
 
-- **Section 2: Equivalent Fractions**
-
-  - _Brief Explanation of Equivalent Fractions_
-  - Q5: [Humorous equivalent fractions question]
-  - Q6: ...
-    _(Continue up to Q8)_
-
-- _(Add more sections as needed)_
-
-- **Detailed Answers and Solutions**
+- **Answers and Solutions**
   - Q1: [Step-by-step solution with workings]
   - Q2: ...
-    _(Continue up to Q20)_
+    _(Continue...)_
 
 ---
 

@@ -1,251 +1,122 @@
-# Fractions, Decimals, and Percentages
+# GCSE Adults Maths Practice Worksheet
 
-In this worksheet, we will be looking at fractions, decimals, and percentages.
+## **British Agricultural Theme: Fractions, Decimals, and Percentages**
 
-### **Section 1: Basic Fractions in Farming**
+### **Section 1: Fractions**
 
-_Understanding basic fractions helps us tackle real-life problems. Let's see how these farmers handle their daily tasks involving fractions._
+_Fractions are everywhere, even on the farm! Whether it’s splitting hay bales among cows or sharing the carrot harvest among rabbits, understanding fractions is key to a farmer’s day-to-day work._
 
-**Q1**: Farmer Giles has 12 sheep, but only \(\frac{1}{4}\) of them are black. How many black sheep does Farmer Giles have?
+#### Questions:
 
-**Q2**: Out of 40 cows, Farmer Hilda finds that \(\frac{3}{8}\) of them like to graze in the muddy part of the field. How many cows enjoy the muddy patch?
+**Q1:** Farmer Joe has 16 cows, and he needs to split them into groups of \(\frac{1}{4}\). How many cows are in each group?
 
-**Q3**: The farm has 18 pigs. Farmer Tom realises \(\frac{2}{3}\) of them have developed a taste for gourmet acorns. How many pigs are acorn enthusiasts?
+**Q2:** A hen laid 20 eggs, and Farmer Beth gave \(\frac{3}{5}\) of them to her neighbour. How many eggs did she give away?
 
-**Q4**: Out of Farmer Emily’s collection of 24 chickens, \(\frac{5}{12}\) have a peculiar liking for performing ‘the chicken dance’ at dusk. How many chickens dance at dusk?
+**Q3:** A field is \(\frac{3}{4}\) covered with wheat, and the rest is covered with barley. What fraction of the field is covered with barley?
 
-**Q5**: Farmer Ted owns 15 horses, and \(\frac{4}{5}\) of them refuse to get up before noon. How many horses are lazy sleepers?
+**Q4:** Out of 120 sheep, Farmer Smith sold \(\frac{1}{6}\) of them. How many sheep did he sell?
 
-**Q6**: The farm has 50 ducks, but \(\frac{7}{10}\) of them spend most of their day plotting a coup against the geese. How many ducks are involved in this scheme?
+**Q5:** A cheese wheel is cut into 12 slices. If Farmer Nancy’s cat eats \(\frac{1}{3}\) of the cheese wheel, how many slices does it eat?
 
-**Q7**: Out of 36 goats, \(\frac{1}{6}\) are expert fence jumpers. How many goats are planning their next escape?
+**Q6:** Farmer Tim harvested 45 pumpkins and sold \(\frac{2}{9}\) of them at the market. How many pumpkins did he sell?
 
-**Q8**: Farmer Maggie has 80 bees in her hives, but \(\frac{1}{5}\) are on a honey strike. How many bees are refusing to work?
+**Q7:** Farmer Chloe divides her 40 hectares of land into equal parts, planting wheat on \(\frac{5}{8}\) of it. How many hectares are planted with wheat?
 
-**Q9**: Out of 60 rabbits, \(\frac{2}{5}\) have been caught stealing carrots. How many are the culprits?
+**Q8:** A scarecrow must guard \(\frac{2}{5}\) of a field that is 50 square metres. How many square metres does the scarecrow watch over?
 
-**Q10**: A field is divided into 120 plots. \(\frac{1}{3}\) are dedicated to growing turnips. How many plots are for turnips?
+**Q9:** Out of 180 apples, \(\frac{7}{9}\) are turned into cider. How many apples are used for cider?
 
----
-
-### **Section 2: Equivalent Fractions**
-
-_Recognising equivalent fractions is a skill every farmer needs to evenly split resources. Let’s check how our farmers manage this!_
-
-**Q11**: Farmer Jess has split her field into 8 sections. She uses \(\frac{4}{8}\) of it for barley. Simplify the fraction for the barley field.
-
-**Q12**: Farmer Bob divides his land into 12 parts and dedicates \(\frac{6}{12}\) to wheat. Write this fraction in its simplest form.
-
-**Q13**: Out of 16 hay bales, Farmer Alice sets aside \(\frac{8}{16}\) for her prize-winning cows. Simplify the fraction to show what portion of hay she reserved.
-
-**Q14**: In the annual village crop contest, Farmer Leo boasts that \(\frac{9}{12}\) of his plots are planted with sunflowers. Reduce this fraction.
-
-**Q15**: Farmer George’s pigpen is split into 10 equal areas, with \(\frac{5}{10}\) used for feed storage. Simplify this fraction.
-
-**Q16**: Farmer Claire dedicates \(\frac{10}{20}\) of her orchard to apple trees. Simplify the fraction to its lowest term.
-
-**Q17**: Out of 15 pens, \(\frac{9}{15}\) house sheep. Simplify the fraction to find out how much of the pen space is for sheep.
-
-**Q18**: The community barn is split into 14 stalls, and \(\frac{7}{14}\) are occupied by cattle. What’s the simplified fraction?
-
-**Q19**: Farmer Sam’s garden has 18 flowerbeds, with \(\frac{6}{18}\) full of daisies. Simplify the fraction.
-
-**Q20**: The village hall has 24 tables, and \(\frac{12}{24}\) are used for displaying jams. Simplify the fraction.
+**Q10:** Farmer Paul shares his 36 harvest baskets among \(\frac{4}{12}\) of his helpers. How many baskets does each helper receive?
 
 ---
 
-### **Section 3: Converting Between Fractions, Decimals, and Percentages**
+### **Section 2: Decimals**
 
-_To sell produce at the local market, farmers need to understand conversions. Let’s see how they fare with this!_
+_Farmers deal with decimals when weighing crops or measuring out milk. Let’s ensure you can handle these as smoothly as a farmer counting sheep (or counting how many sheep are left after falling asleep)._
 
-**Q21**: Farmer Joe sells \(\frac{1}{4}\) of his fresh milk to the local creamery. Convert this fraction to a decimal and a percentage.
+#### Questions:
 
-**Q22**: Out of Farmer Linda’s harvest, \(\frac{2}{5}\) is organic. Express this fraction as both a decimal and a percentage.
+**Q11:** A jar of honey weighs 1.75 kg. If Farmer Pete’s bee colony produces 15 jars, what is the total weight of honey produced in kilograms?
 
-**Q23**: \(\frac{3}{8}\) of the farm's profit comes from egg sales. What is this as a decimal and a percentage?
+**Q12:** A litre of milk costs £0.95, and Farmer Daisy sells 120 litres. How much revenue does she earn?
 
-**Q24**: The village fair sees \(\frac{5}{6}\) of its pies sold out. Convert \(\frac{5}{6}\) into a decimal and a percentage.
+**Q13:** Farmer Will’s tractor covers 8.5 km per hour. How many kilometres will it cover in 5.2 hours?
 
-**Q25**: Farmer Henry notes that \(\frac{7}{10}\) of his wheat is sold at premium price. Write this as a decimal and a percentage.
+**Q14:** A bag of potatoes weighs 2.4 kg. Farmer Lucy stacks 18 of these bags. What is the total weight of the stacked potatoes?
 
-**Q26**: \(\frac{9}{20}\) of the tractor's fuel has been used up. Represent this as a decimal and a percentage.
+**Q15:** Farmer Bob has 9.75 metres of rope. He uses 3.2 metres for securing a gate. How much rope does he have left?
 
-**Q27**: \(\frac{1}{3}\) of the harvest is put into storage. Convert this to a decimal and a percentage.
+**Q16:** Farmer Ella finds that a chicken eats 0.075 kg of feed per day. How much feed will 20 chickens consume in a day?
 
-**Q28**: Farmer May finds that \(\frac{5}{8}\) of her vegetable patch is filled with carrots. Show this as a decimal and a percentage.
+**Q17:** A tractor tyre’s circumference is 2.35 m. How far will it travel after 30 full rotations?
 
-**Q29**: \(\frac{11}{25}\) of the farm’s produce goes to the local market. Convert this to both a decimal and a percentage.
+**Q18:** A 5-litre watering can is filled with 3.65 litres of water. How much more water can it hold?
 
-**Q30**: Out of 100 litres of milk, \(\frac{3}{4}\) is used for making cheese. Express this fraction as a decimal and a percentage.
+**Q19:** Farmer Jamie fills 0.45 litres of milk into small bottles. How many bottles can be filled from 10 litres of milk?
 
----
-
-### **Detailed Answers and Solutions**
-
-**Q1 Solution**:
-Given: Total sheep = 12, Fraction that are black = \(\frac{1}{4}\)  
-Calculation: \(12 \times \frac{1}{4} = 3\)  
-**Answer**: 3 black sheep
-
-**Q2 Solution**:
-Total cows = 40, Fraction that like mud = \(\frac{3}{8}\)  
-Calculation: \(40 \times \frac{3}{8} = 15\)  
-**Answer**: 15 cows
-
-**Q3 Solution**:  
-Total pigs = 18, Fraction that like acorns = \(\frac{2}{3}\)  
-Calculation: \(18 \times \frac{2}{3} = 12\)  
-**Answer**: 12 pigs
-
-**Q4 Solution**:  
-Total chickens = 24, Fraction that dance at dusk = \(\frac{5}{12}\)  
-Calculation: \(24 \times \frac{5}{12} = 10\)  
-**Answer**: 10 chickens
-
-**Q5 Solution**:  
-Total horses = 15, Fraction that are lazy = \(\frac{4}{5}\)  
-Calculation: \(15 \times \frac{4}{5} = 12\)  
-**Answer**: 12 horses
-
-**Q6 Solution**:  
-Total ducks = 50, Fraction plotting against geese = \(\frac{7}{10}\)  
-Calculation: \(50 \times \frac{7}{10} = 35\)  
-**Answer**: 35 ducks
-
-**Q7 Solution**:  
-Total goats = 36, Fraction that are fence jumpers = \(\frac{1}{6}\)  
-Calculation: \(36 \times \frac{1}{6} = 6\)  
-**Answer**: 6 goats
-
-**Q8 Solution**:  
-Total bees = 80, Fraction on strike = \(\frac{1}{5}\)  
-Calculation: \(80 \times \frac{1}{5} = 16\)  
-**Answer**: 16 bees
-
-**Q9 Solution**:  
-Total rabbits = 60, Fraction stealing carrots = \(\frac{2}{5}\)  
-Calculation: \(60 \times \frac{2}{5} = 24\)  
-**Answer**: 24 rabbits
-
-**Q10 Solution**:  
-Total plots = 120, Fraction for turnips = \(\frac{1}{3}\)  
-Calculation: \(120 \times \frac{1}{3} = 40\)  
-**Answer**: 40 plots
+**Q20:** Farmer Kelly finds that 0.85 of her vegetable patch is lettuce and the rest is carrots. What decimal represents the part covered by carrots?
 
 ---
 
-### **Detailed Solutions for Section 2: Equivalent Fractions**
+### **Section 3: Percentages**
 
-**Q11 Solution**:  
-Given: \(\frac{4}{8}\)  
-Simplified: \(\frac{4 \div 4}{8 \div 4} = \frac{1}{2}\)  
-**Answer**: \(\frac{1}{2}\)
+_Percentages help farmers manage everything from crop yields to animal feed ratios. Let’s dig into this field of study!_
 
-**Q12 Solution**:  
-Given: \(\frac{6}{12}\)  
-Simplified: \(\frac{6 \div 6}{12 \div 6} = \frac{1}{2}\)  
-**Answer**: \(\frac{1}{2}\)
+#### Questions:
 
-**Q13 Solution**:  
-Given: \(\frac{8}{16}\)  
-Simplified: \(\frac{8 \div 8}{16 \div 8} = \frac{1}{2}\)  
-**Answer**: \(\frac{1}{2}\)
+**Q21:** Farmer Harry harvested 200 kg of apples, and 30% were sold at the market. How many kilograms were sold?
 
-**Q14 Solution**:  
-Given: \(\frac{9}{12}\)  
-Simplified: \(\frac{9 \div 3}{12 \div 3} = \frac{3}{4}\)  
-**Answer**: \(\frac{3}{4}\)
+**Q22:** A farm shop’s revenue increased by 15% from £2,000 last month. What is this month’s revenue?
 
-**Q15 Solution**:  
-Given: \(\frac{5}{10}\)  
-Simplified: \(\frac{5 \div 5}{10 \div 5} = \frac{1}{2}\)  
-**Answer**: \(\frac{1}{2}\)
+**Q23:** Farmer Sue’s field produces 500 kg of wheat. If 12% is stored for future planting, how many kilograms are stored?
 
-**Q16 Solution**:  
-Given: \(\frac{10}{20}\)  
-Simplified: \(\frac{10 \div 10}{20 \div 10} = \frac{1}{2}\)  
-**Answer**: \(\frac{1}{2}\)
+**Q24:** A pumpkin weighs 9 kg, and it loses 10% of its weight after drying. What is its weight after drying?
 
-**Q17 Solution**:  
-Given: \(\frac{9}{15}\)  
-Simplified: \(\frac{9 \div 3}{15 \div 3} = \frac{3}{5}\)  
-**Answer**: \(\frac{3}{5}\)
+**Q25:** Farmer Leo’s chicken farm produced 1,000 eggs last week, but only 85% were sold. How many eggs were sold?
 
-**Q18 Solution**:  
-Given: \(\frac{7}{14}\)  
-Simplified: \(\frac{7 \div 7}{14 \div 7} = \frac{1}{2}\)  
-**Answer**: \(\frac{1}{2}\)
+**Q26:** A tractor that used to cost £15,000 has been discounted by 20%. What is the new price?
 
-**Q19 Solution**:  
-Given: \(\frac{6}{18}\)  
-Simplified: \(\frac{6 \div 6}{18 \div 6} = \frac{1}{3}\)  
-**Answer**: \(\frac{1}{3}\)
+**Q27:** Farmer Mia receives 450 reviews for her farm shop, and 92% are positive. How many positive reviews did she get?
 
-**Q20 Solution**:  
-Given: \(\frac{12}{24}\)  
-Simplified: \(\frac{12 \div 12}{24 \div 12} = \frac{1}{2}\)  
-**Answer**: \(\frac{1}{2}\)
+**Q28:** The farm expands by 25% from its original 80 hectares. What is the new size of the farm?
+
+**Q29:** Farmer Ben grows tomatoes and increases his yield by 18% this year from 600 kg last year. How much did he harvest this year?
+
+**Q30:** Farmer Olivia has a 120-strong herd of cows, and 75% of them are Friesians. How many Friesians does she have?
 
 ---
 
-### **Detailed Solutions for Section 3: Converting Between Fractions, Decimals, and Percentages**
+## **Answers and Solutions**
 
-**Q21 Solution**:  
-Fraction: \(\frac{1}{4}\)  
-Decimal: \(\frac{1}{4} = 0.25\)  
-Percentage: \(0.25 \times 100 = 25\%\)  
-**Answer**: 0.25, 25%
+**Q1:** \( \frac{1}{4} \times 16 = 4 \) cows per group.  
+**Q2:** \( \frac{3}{5} \times 20 = 12 \) eggs.  
+**Q3:** \( 1 - \frac{3}{4} = \frac{1}{4} \) (barley).  
+**Q4:** \( \frac{1}{6} \times 120 = 20 \) sheep.  
+**Q5:** \( \frac{1}{3} \times 12 = 4 \) slices.  
+**Q6:** \( \frac{2}{9} \times 45 = 10 \) pumpkins.  
+**Q7:** \( \frac{5}{8} \times 40 = 25 \) hectares.  
+**Q8:** \( \frac{2}{5} \times 50 = 20 \) square metres.  
+**Q9:** \( \frac{7}{9} \times 180 = 140 \) apples.  
+**Q10:** \( \frac{4}{12} \times 36 = 12 \) baskets.
 
-**Q22 Solution**:  
-Fraction: \(\frac{2}{5}\)  
-Decimal: \(\frac{2}{5} = 0.4\)  
-Percentage: \(0.4 \times 100 = 40\%\)  
-**Answer**: 0.4, 40%
+**Q11:** \( 1.75 \times 15 = 26.25 \) kg.  
+**Q12:** \( 0.95 \times 120 = £114 \).  
+**Q13:** \( 8.5 \times 5.2 = 44.2 \) km.  
+**Q14:** \( 2.4 \times 18 = 43.2 \) kg.  
+**Q15:** \( 9.75 - 3.2 = 6.55 \) metres.  
+**Q16:** \( 0.075 \times 20 = 1.5 \) kg.  
+**Q17:** \( 2.35 \times 30 = 70.5 \) m.  
+**Q18:** \( 5 - 3.65 = 1.35 \) litres.  
+**Q19:** \( \frac{10}{0.45} = 22 \) bottles.  
+**Q20:** \( 1 - 0.85 = 0.15 \) (carrots).
 
-**Q23 Solution**:  
-Fraction: \(\frac{3}{8}\)  
-Decimal: \(\frac{3}{8} = 0.375\)  
-Percentage: \(0.375 \times 100 = 37.5\%\)  
-**Answer**: 0.375, 37.5%
-
-**Q24 Solution**:  
-Fraction: \(\frac{5}{6}\)  
-Decimal: \(\frac{5}{6} \approx 0.833\)  
-Percentage: \(0.833 \times 100 \approx 83.3\%\)  
-**Answer**: 0.833, 83.3%
-
-**Q25 Solution**:  
-Fraction: \(\frac{7}{10}\)  
-Decimal: \(\frac{7}{10} = 0.7\)  
-Percentage: \(0.7 \times 100 = 70\%\)  
-**Answer**: 0.7, 70%
-
-**Q26 Solution**:  
-Fraction: \(\frac{9}{20}\)  
-Decimal: \(\frac{9}{20} = 0.45\)  
-Percentage: \(0.45 \times 100 = 45\%\)  
-**Answer**: 0.45, 45%
-
-**Q27 Solution**:  
-Fraction: \(\frac{1}{3}\)  
-Decimal: \(\frac{1}{3} \approx 0.333\)  
-Percentage: \(0.333 \times 100 \approx 33.3\%\)  
-**Answer**: 0.333, 33.3%
-
-**Q28 Solution**:  
-Fraction: \(\frac{5}{8}\)  
-Decimal: \(\frac{5}{8} = 0.625\)  
-Percentage: \(0.625 \times 100 = 62.5\%\)  
-**Answer**: 0.625, 62.5%
-
-**Q29 Solution**:  
-Fraction: \(\frac{11}{25}\)  
-Decimal: \(\frac{11}{25} = 0.44\)  
-Percentage: \(0.44 \times 100 = 44\%\)  
-**Answer**: 0.44, 44%
-
-**Q30 Solution**:  
-Fraction: \(\frac{3}{4}\)  
-Decimal: \(\frac{3}{4} = 0.75\)  
-Percentage: \(0.75 \times 100 = 75\%\)  
-**Answer**: 0.75, 75%
+**Q21:** \( 30\% \times 200 = 60 \) kg.  
+**Q22:** \( 15\% \times 2000 = 300 + 2000 = £2300 \).  
+**Q23:** \( 12\% \times 500 = 60 \) kg.  
+**Q24:** \( 9 - (10\% \times 9) = 9 - 0.9 = 8.1 \) kg.  
+**Q25:** \( 85\% \times 1000 = 850 \) eggs.  
+**Q26:** \( 20\% \times 15000 = 3000; 15000 - 3000 = £12000 \).  
+**Q27:** \( 92\% \times 450 = 414 \) reviews.  
+**Q28:** \( 25\% \times 80 = 20; 80 + 20 = 100 \) hectares.  
+**Q29:** \( 18\% \times 600 = 108 + 600 = 708 \) kg.  
+**Q30:** \( 75\% \times 120 = 90 \) cows.
