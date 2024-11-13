@@ -1,8 +1,10 @@
----
+# Fractions, Decimals, and Percentages
+
+In this worksheet, we will be looking at fractions, decimals, and percentages.
 
 ### **Section 1: Basic Fractions in Farming**
 
-*Understanding basic fractions helps us tackle real-life problems. Let's see how these farmers handle their daily tasks involving fractions.*
+_Understanding basic fractions helps us tackle real-life problems. Let's see how these farmers handle their daily tasks involving fractions._
 
 **Q1**: Farmer Giles has 12 sheep, but only \(\frac{1}{4}\) of them are black. How many black sheep does Farmer Giles have?
 
